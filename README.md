@@ -1,2 +1,2 @@
 # Calculator
-JavaScript Project from The Odin Project
+JavaScript Project from "The Odin Project"
